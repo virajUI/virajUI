@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @virajUI
 - 👀 I’m interested in ...ml,ux,web,gaming
-- 🌱 I’m currently learning ...webdevelopment , ml
-- 💞️ I’m looking to collaborate on ...
+- 🌱 i'm a Full stack web developer.
+- 💞️ I’m looking to collaborate on a business oriented solution...
 - 📫 How to reach me ...virajshrivastava2001@gmail.com
 
 <!---
